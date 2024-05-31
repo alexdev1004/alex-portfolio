@@ -16,7 +16,7 @@ const Home = () => {
               </span>
             </span>
             <span>
-              <span className="animated-layer">Michal</span>
+              <span className="animated-layer">Alex</span>
             </span>
           </h1>
         </div>

@@ -3,7 +3,7 @@ import Head from 'next/head';
 const SalimovHead = () => {
   return (
     <Head>
-      <title>Michal - Jankowski</title>
+      <title>Aleksandar - Nikolovski</title>
     </Head>
   );
 };

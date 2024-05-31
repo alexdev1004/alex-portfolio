@@ -283,11 +283,11 @@ const About = () => {
                   <h4>Senior Developer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2020 – 2022</span>
+                    <span>2024-present</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Valohai (Remote)</span>
+                    <span>Looking for a new opportunity</span>
                   </p>
                 </div>
               </div>
@@ -300,7 +300,7 @@ const About = () => {
                   <h4>Self Employed</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2019 – 2020</span>
+                    <span>2023 – 2024</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
@@ -314,14 +314,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-down-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Backend Developer</h4>
+                  <h4>Full Stack/Blockchain Developer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2017 – 2020</span>
+                    <span>2020-2023</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Monterail</span>
+                    <span>Freelancer</span>
                   </p>
                 </div>
               </div>
@@ -331,14 +331,14 @@ const About = () => {
             <li>
               <div className="animated-layer fade-in-up-animation fadeInUp wow">
                 <div className="experience">
-                  <h4>Junior Developer</h4>
+                  <h4>Full Stack Developer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2015 – 2017</span>
+                    <span>2018 – 2019</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />
-                    <span>Frontkom</span>
+                    <span>Crowdholding</span>
                   </p>
                 </div>
               </div>
@@ -351,11 +351,11 @@ const About = () => {
                   <h4>Bachelor Degree</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>2010 - 2015</span>
+                    <span>2015 - 2018</span>
                   </p>
                   <p>
                     <i className="fa-solid fa-building-columns" />
-                    <span>Charles University</span>
+                    <span>IT Academy Sumadija</span>
                   </p>
                 </div>
               </div>

@@ -95,7 +95,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Email :</span>
-                    <span>michal.jankowski003@gmail.com</span>
+                    <span>aleksandarnik97@gmail.com</span>
                   </span>
                 </span>
               </li>
@@ -103,7 +103,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Skype :</span>
-                    <span>Michal Jankowski</span>
+                    <span>Aleksandar Nikolovski</span>
                   </span>
                 </span>
               </li>

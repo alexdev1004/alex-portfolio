@@ -33,7 +33,7 @@ const Contact = () => {
             <i className="fa fa-location-dot" />
             <p>
               <span className="small-text">address</span>
-              Warsaw, Poland
+              Pancevo 26101 Serbia
             </p>
           </div>
           {/* CONTACT ITEM ENDS */}

@@ -53,7 +53,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Nationality :</span>
-                    <span>Poland</span>
+                    <span>Serbia</span>
                   </span>
                 </span>
               </li>
@@ -69,7 +69,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Languages :</span>
-                    <span>English, Polish</span>
+                    <span>English, српски  </span>
                   </span>
                 </span>
               </li>
@@ -87,7 +87,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Phone :</span>
-                    <span>+48 22 847 26 22</span>
+                    <span>+381-631-755684</span>
                   </span>
                 </span>
               </li>

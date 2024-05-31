@@ -79,7 +79,7 @@ const About = () => {
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
                     <span>Address :</span>
-                    <span>Warsaw</span>
+                    <span>Pancevo</span>
                   </span>
                 </span>
               </li>
@@ -216,6 +216,42 @@ const About = () => {
                 <i className="devicon-sass-plain" />
               </span>
               <h4>Sass</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+          </div>
+          <div>
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+              <span>
+                <i className="devicon-flutter-plain" />
+              </span>
+              <h4>Flutter</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-up-animation fadeInRight wow">
+              <span>
+                <i className="devicon-kotlin-plain" />
+              </span>
+              <h4>Kotlin</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+          </div>
+          <div>
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-down-animation fadeInLeft wow">
+              <span>
+                <i className="devicon-svelte-plain" />
+              </span>
+              <h4>Svelte</h4>
+            </div>
+            {/* SKILL ITEM ENDS */}
+            {/* SKILL ITEM STARTS */}
+            <div className="animated-layer fade-in-up-animation fadeInRight wow">
+              <span>
+                <i className="devicon-firebase-plain" />
+              </span>
+              <h4>Fireabase</h4>
             </div>
             {/* SKILL ITEM ENDS */}
           </div>

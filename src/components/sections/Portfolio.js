@@ -9,6 +9,16 @@ import koo from "../../../public/assets/portfolio/koo.webp";
 import party from "../../../public/assets/portfolio/party.webp";
 import project1 from "../../../public/assets/portfolio/project-1.webp";
 import project3 from "../../../public/assets/portfolio/project-3.webp";
+import portfolio_01 from "../../../public/assets/portfolio/portfolio_01.jpg";
+import portfolio_02 from "../../../public/assets/portfolio/portfolio_02.jpg";
+import portfolio_03 from "../../../public/assets/portfolio/portfolio_03.jpg";
+import portfolio_04 from "../../../public/assets/portfolio/portfolio_04.jpg";
+import portfolio_05 from "../../../public/assets/portfolio/portfolio_05.jpg";
+import portfolio_06 from "../../../public/assets/portfolio/portfolio_06.jpg";
+import portfolio_07 from "../../../public/assets/portfolio/portfolio_07.jpg";
+import portfolio_08 from "../../../public/assets/portfolio/portfolio_08.jpg";
+import portfolio_09 from "../../../public/assets/portfolio/portfolio_09.jpg";
+import portfolio_10 from "../../../public/assets/portfolio/portfolio_10.jpg";
 import real1 from "../../../public/assets/portfolio/real-1.webp";
 import real2 from "../../../public/assets/portfolio/real-2.webp";
 import tsuka1 from "../../../public/assets/portfolio/tsuka-1.webp";
@@ -75,7 +85,7 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>A month</span>
+                  <span>one month</span>
                 </li>
                 <li>
                   <span>
@@ -519,20 +529,78 @@ const Portfolio = () => {
           {/* ITEM DETAILS ENDS */}
         </SwiperSlide>
         {/* PORTFOLIO ITEM ENDS */}
+
         {/* PORTFOLIO ITEM STARTS */}
         <SwiperSlide className="single-item swiper-slide">
           {/* ITEM MAIN CONTENT STARTS */}
           <div className="main-content">
             <Image
               className="img-fluid"
-              src={project3}
+              src={portfolio_01}
               alt="External Project"
             />
           </div>
           {/* ITEM MAIN CONTENT ENDS */}
           {/* ITEM DETAILS STARTS */}
           <div className="details">
-            <h4>Food Home</h4>
+            <h4>A Graphic Design Item(React/Next JS/Node JS)</h4>
+            <div>
+              <ul>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-file-lines" /> Project :
+                  </span>
+                  <span>A Graphic Design Item</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-user" /> Client :
+                  </span>
+                  <span>Kyle Kingsbery</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-hourglass" /> Duration :
+                  </span>
+                  <span>2 months</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                  </span>
+                  <span>React.js Next JS, Node JS, Express JS</span>
+                </li>
+              </ul>
+            </div>
+            <a
+              href="https://egswap.exchange/"
+              target="_blank"
+              className="custom-btn"
+            >
+              <span>
+                preview <i className="fa-solid fa-arrow-up-right-from-square" />
+              </span>
+            </a>
+          </div>
+          {/* ITEM DETAILS ENDS */}
+        </SwiperSlide>
+        {/* PORTFOLIO ITEM ENDS */}
+
+
+        {/* PORTFOLIO ITEM STARTS */}
+        <SwiperSlide className="single-item swiper-slide">
+          {/* ITEM MAIN CONTENT STARTS */}
+          <div className="main-content">
+            <Image
+              className="img-fluid"
+              src={portfolio_02}
+              alt="External Project"
+            />
+          </div>
+          {/* ITEM MAIN CONTENT ENDS */}
+          {/* ITEM DETAILS STARTS */}
+          <div className="details">
+            <h4>Bitcoin Burial (BTC ordinals)</h4>
             <div>
               <ul>
                 <li>
@@ -545,24 +613,24 @@ const Portfolio = () => {
                   <span>
                     <i className="fa-regular fa-user" /> Client :
                   </span>
-                  <span>Josh Raza</span>
+                  <span>Asi Sivan</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-regular fa-hourglass" /> Duration :
                   </span>
-                  <span>1 month</span>
+                  <span>2 month</span>
                 </li>
                 <li>
                   <span>
                     <i className="fa-solid fa-code-branch" /> Frameworks :
                   </span>
-                  <span>React.js , Hubspot</span>
+                  <span>React.js, Solidity</span>
                 </li>
               </ul>
             </div>
             <a
-              href="https://foodnome.com/"
+              href="https://bitcoinburials.com"
               target="_blank"
               className="custom-btn"
             >
@@ -574,6 +642,182 @@ const Portfolio = () => {
           {/* ITEM DETAILS ENDS */}
         </SwiperSlide>
         {/* PORTFOLIO ITEM ENDS */}
+
+        {/* PORTFOLIO ITEM STARTS */}
+        <SwiperSlide className="single-item swiper-slide">
+          {/* ITEM MAIN CONTENT STARTS */}
+          <div className="main-content">
+            <Image
+              className="img-fluid"
+              src={portfolio_03}
+              alt="External Project"
+            />
+          </div>
+          {/* ITEM MAIN CONTENT ENDS */}
+          {/* ITEM DETAILS STARTS */}
+          <div className="details">
+            <h4>Reavers</h4>
+            <div>
+              <ul>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-file-lines" /> Project :
+                  </span>
+                  <span>Solana</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-user" /> Client :
+                  </span>
+                  <span>Hernandez</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-hourglass" /> Duration :
+                  </span>
+                  <span>7 days</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                  </span>
+                  <span>Solana</span>
+                </li>
+              </ul>
+            </div>
+            <a
+              href="https://reavers.xyz/"
+              target="_blank"
+              className="custom-btn"
+            >
+              <span>
+                preview <i className="fa-solid fa-arrow-up-right-from-square" />
+              </span>
+            </a>
+          </div>
+          {/* ITEM DETAILS ENDS */}
+        </SwiperSlide>
+        {/* PORTFOLIO ITEM ENDS */}
+
+
+        {/* PORTFOLIO ITEM STARTS */}
+        <SwiperSlide className="single-item swiper-slide">
+          {/* ITEM MAIN CONTENT STARTS */}
+          <div className="main-content">
+            <Image
+              className="img-fluid"
+              src={portfolio_04}
+              alt="External Project"
+            />
+          </div>
+          {/* ITEM MAIN CONTENT ENDS */}
+          {/* ITEM DETAILS STARTS */}
+          <div className="details">
+            <h4>Pioneer Legend</h4>
+            <div>
+              <ul>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-file-lines" /> Project :
+                  </span>
+                  <span>Solana</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-user" /> Client :
+                  </span>
+                  <span>Sam Jiang </span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-hourglass" /> Duration :
+                  </span>
+                  <span>2 months</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                  </span>
+                  <span>Solana</span>
+                </li>
+              </ul>
+            </div>
+            <a
+              href="https://pioneerlegends.com/"
+              target="_blank"
+              className="custom-btn"
+            >
+              <span>
+                preview <i className="fa-solid fa-arrow-up-right-from-square" />
+              </span>
+            </a>
+          </div>
+          {/* ITEM DETAILS ENDS */}
+        </SwiperSlide>
+        {/* PORTFOLIO ITEM ENDS */}
+
+
+
+
+
+        {/* PORTFOLIO ITEM STARTS */}
+        <SwiperSlide className="single-item swiper-slide">
+          {/* ITEM MAIN CONTENT STARTS */}
+          <div className="main-content">
+            <Image
+              className="img-fluid"
+              src={portfolio_05}
+              alt="External Project"
+            />
+          </div>
+          {/* ITEM MAIN CONTENT ENDS */}
+          {/* ITEM DETAILS STARTS */}
+          <div className="details">
+            <h4>Honey Badgers (BTC ordinals)</h4>
+            <div>
+              <ul>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-file-lines" /> Project :
+                  </span>
+                  <span>Solana</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-user" /> Client :
+                  </span>
+                  <span>Leon </span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-regular fa-hourglass" /> Duration :
+                  </span>
+                  <span> a month</span>
+                </li>
+                <li>
+                  <span>
+                    <i className="fa-solid fa-code-branch" /> Frameworks :
+                  </span>
+                  <span>React JS, Tailwind CSS, Solidity</span>
+                </li>
+              </ul>
+            </div>
+            <a
+              href="https://www.bitcoinbear.xyz/"
+              target="_blank"
+              className="custom-btn"
+            >
+              <span>
+                preview <i className="fa-solid fa-arrow-up-right-from-square" />
+              </span>
+            </a>
+          </div>
+          {/* ITEM DETAILS ENDS */}
+        </SwiperSlide>
+        {/* PORTFOLIO ITEM ENDS */}
+
+
+
         <div className="nav-item next-item animated-btn">
           <span />
         </div>

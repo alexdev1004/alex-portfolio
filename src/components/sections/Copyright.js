@@ -7,7 +7,7 @@ const Copyright = () => {
       <div>
         <span>© {new Date().getFullYear()} Aleksandar Nikolovski</span>
         <span>
-          Designed By <a href="https://app.enhancv.com/share/68271978/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic" target="_blank">Aleksandar</a>
+          Designed By <a href="#" target="_blank">Alex</a>
         </span>
         <ul>
           <li>

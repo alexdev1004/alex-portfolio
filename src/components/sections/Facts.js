@@ -86,7 +86,7 @@ const Facts = () => {
         >
           <div>
             <div>
-              <h3>2</h3>
+              <h3>0</h3>
               <p>
                 Projects<span>in progress</span>
               </p>
